@@ -29,4 +29,4 @@ Steps
 #. Test: add your tests.. run ``python setup.py test``
 #. Test: Build a wheel ``setup.py sdist bdist_wheel``
 #. CI CD: Create build.sh and enter your ci cd commands
-#.
+#. Clean up build.sh, eg dirty version and wheel install
